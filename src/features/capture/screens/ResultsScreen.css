@@ -1,0 +1,41 @@
+.results-container {
+  height: 100%;
+  overflow-y: auto;
+  background: #0b0b0c;
+  padding: 20px;
+  padding-top: 60px;
+  box-sizing: border-box;
+}
+
+.results-heading {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 24px;
+  margin-bottom: 8px;
+}
+
+.results-disclaimer {
+  color: rgba(255, 255, 255, 0.55);
+  font-size: 12px;
+  margin-bottom: 12px;
+}
+
+.results-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.results-row-label {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 14px;
+}
+
+.results-row-value {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+}

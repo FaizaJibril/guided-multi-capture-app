@@ -1,0 +1,13 @@
+.instruction-banner {
+  position: absolute;
+  bottom: 120px;
+  left: 24px;
+  right: 24px;
+  background: rgba(0, 0, 0, 0.55);
+  border-radius: 12px;
+  padding: 10px 16px;
+  color: #fff;
+  font-size: 15px;
+  text-align: center;
+  pointer-events: none;
+}

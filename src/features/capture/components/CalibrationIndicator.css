@@ -1,0 +1,19 @@
+.calibration-pill {
+  position: absolute;
+  top: 108px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 14px;
+  padding: 4px 12px;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.calibration-pending {
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.calibration-ready {
+  background: rgba(34, 204, 102, 0.75);
+}

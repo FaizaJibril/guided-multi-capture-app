@@ -1,0 +1,6 @@
+.capture-flow-container {
+  position: absolute;
+  inset: 0;
+  background: #000;
+  overflow: hidden;
+}
